@@ -1,5 +1,6 @@
 # Blockstack Todo App
 
+> Fork of blockstack tutorial to play around with
 > A simple Vue.js Todo app built for the decentralized web.
 
 ## Build Setup
